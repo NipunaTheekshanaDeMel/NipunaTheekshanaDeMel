@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipuna Theekshana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<center><img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg"></center>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/NipunaTheekshanaDeMel/MyPortfolio.git)
 

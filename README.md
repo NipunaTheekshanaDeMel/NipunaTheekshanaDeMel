@@ -1,6 +1,6 @@
 <h1 align="center">Hey Guys👋, I'm Nipuna Theekshana</h1><br />
 
-<h2 align="center"><i><b>🚀 Front-End Developer | 🎨 UI/UX Designer | 🎯 Web Developer | 🎨 Graphic Designer<b><i></h2>
+<h2 align="center"><i><b>🚀 Front-End Developer | 🎨 UI/UX Designer | 🎯 Web Developer <b><i></h2>
 <center><img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg"></center>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/NipunaTheekshanaDeMel/MyPortfolio.git)
